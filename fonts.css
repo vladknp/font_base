@@ -138,7 +138,7 @@ font-weight: 400;
     url("../fonts/PFDinTextCondPro-R.woff") format("woff"),
     url("../fonts/PFDinTextCondPro-R.ttf") format("truetype"),
     url("../fonts/PFDinTextCondPro-R.svg#PFDin TextCondPro R") format("svg");
-	font-weight: 200;
+	font-weight: 400;
 }
 
 @font-face {
@@ -159,6 +159,7 @@ font-weight: 400;
     url("../fonts/PFDinTextCondPro-L-I.ttf") format("truetype"),
     url("../fonts/PFDinTextCondPro-L-I.svg#PFDin TextCondPro L-I") format("svg");
 	font-weight: 200;
+	font-style: italic;
 }
 
 @font-face {
@@ -189,7 +190,7 @@ font-weight: 400;
     url("../fonts/PFDinTextCompPro-R.woff") format("woff"),
     url("../fonts/PFDinTextCompPro-R.ttf") format("truetype"),
     url("../fonts/PFDinTextCompPro-R.svg#PFDin TextCompPro R") format("svg");
-	font-weight: 200;
+	font-weight: 400;
 }
 
 @font-face {
@@ -199,7 +200,7 @@ font-weight: 400;
     url("../fonts/PFDinTextCompPro-M.woff") format("woff"),
     url("../fonts/PFDinTextCompPro-M.ttf") format("truetype"),
     url("../fonts/PFDinTextCompPro-M.svg#PFDin TextCompPro M") format("svg");
-	font-weight: 200;
+	font-weight: 500;
 }
 
 
